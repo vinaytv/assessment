@@ -1,0 +1,5 @@
+1.) Assuming 3 as right child of 5 in first exmaple tree.
+2.) 2 as left child of 4 in second tree.
+
+==== 
+My output is in inorder.
